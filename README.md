@@ -1,9 +1,8 @@
-SENTIMENT ANALYSIS ALGORITHM
+#SENTIMENT ANALYSIS ALGORITHM
 
 This is the final Project of the course "Python Functions, Files, and Dictionaries". This course is part of the Python 3 Programming Specialization offer by University of Michigan in Coursera. 
 
-ABOUT IT
-
+##DESCRIPTION
 
 We have provided some synthetic (fake, semi-randomly generated) twitter data in a csv file named project_twitter_data.csv which has the text of a tweet, the number of retweets of that tweet, and the number of replies to that tweet. We have also words that express positive sentiment and negative sentiment, in the files positive_words.txt and negative_words.txt.
 
